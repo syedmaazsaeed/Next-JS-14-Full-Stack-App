@@ -28,3 +28,6 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
+
+
+//  this is the main entry points of our application
