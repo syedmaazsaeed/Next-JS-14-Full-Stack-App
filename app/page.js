@@ -99,3 +99,7 @@ export default function Home() {
     </div>
   );
 }
+
+
+//  The purpose of page.js file is that it simply represent the home page route of the application
+// localhost:3000/
