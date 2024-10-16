@@ -1,7 +1,7 @@
 import React from 'react'
 
 
-// this is page is rendered as /posts/new
+//This is page is rendered as /posts/new
 
 const page = () => {
   return (
@@ -12,4 +12,5 @@ const page = () => {
 }
 
 export default page
+
 
