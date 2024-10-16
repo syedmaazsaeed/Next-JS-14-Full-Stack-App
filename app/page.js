@@ -83,7 +83,7 @@ export default function Home() {
             alt="Window icon"
             width={16}
             height={16}
-          />
+          />  
           Examples
         </a>
         <a
